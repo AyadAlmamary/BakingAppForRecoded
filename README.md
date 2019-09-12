@@ -18,7 +18,6 @@ Baking App allows Udacity’s resident baker-in-chief, Miriam, to share her reci
 * Retrofit
 * GSON
 * Espresso
-* ButterKnife
 * Picasso
 * Support design libraries
 
