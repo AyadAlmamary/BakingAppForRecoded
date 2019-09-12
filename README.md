@@ -1,8 +1,7 @@
 # Baking App
-This is project #4 of Android Developer Nanodegree. 
-
+This is project for RE-Coded Orginization
 ### App Description:
-Baking App allows Udacity’s resident baker-in-chief, Miriam, to share her recipes with the world. It allows users to select a recipe and see video-guided steps for how to complete it.
+Baking App allows users to select a recipe and see video-guided steps for how to complete it.
 
 ### Functionality:
 1. Used ExoPlayer API to play videos and audio
@@ -22,3 +21,4 @@ Baking App allows Udacity’s resident baker-in-chief, Miriam, to share her reci
 * Support design libraries
 
 
+### Ayad Almamary
